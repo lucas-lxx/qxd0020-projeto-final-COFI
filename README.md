@@ -1,10 +1,10 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: COFI - Controle Financeiro
 
-Breve descrição do que o seu projeto faz.
+A aplicação web irá auxiliar no controle financeiro de um usúario
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+Lucas Almeida - 495 000
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
