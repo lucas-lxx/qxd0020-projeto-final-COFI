@@ -21,12 +21,12 @@ Liste as principais entidades do sistema.
 
 Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
 - *Funcionalidade do usuário não logado*
-- Usuário pode criar conta
+  - Usuário pode criar conta
 - *Funcionalidade do usuário logado*
-- Listar as contas
-- Separar as contas por cartão de crédito
-- Ver o fluxo de caixa da pessoa
-- Filtrar os gastos de acordo com categoria e modo de pagamento
+  - Listar as contas
+  - Separar as contas por cartão de crédito
+  - Ver o fluxo de caixa da pessoa
+  - Filtrar os gastos de acordo com categoria e modo de pagamento
 
 :warning::warning::warning: As informações a seguir devem ser enviadas juntamente com a versão final do projeto. :warning::warning::warning:
 
