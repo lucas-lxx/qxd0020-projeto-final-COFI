@@ -10,6 +10,7 @@ Lucas Almeida - 495 000
 
 - Usuário não logado
 - Usuário logado
+- Administrador
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
